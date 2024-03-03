@@ -21,9 +21,13 @@ Contributions to this project are welcome. Please follow these steps to contribu
 
 # Contributors 
 EL HARRAB Yassine
+
 BOUKHALFA Hamza
+
 SOTHIRASA Sajeewan
+
 PATIL Ashish
+
 # Acknowledgments
 Thanks to GoodReads for providing the dataset.
 This project was inspired by the need to improve data quality for analytical projects.
